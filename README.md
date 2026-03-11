@@ -5,14 +5,14 @@ Macao Polytechnic University & University of Coimbra
 
 ## Research Interests
 - Federated Learning
-- AI Reliability
+- AI Reliability, especially in FL
 - Machine Learning Safety
-- AI in Education
+
 
 ## Current Projects
 - Federated Reliability Assessment
 - Distance-based Surrogate Reliability Model
-- AI Literacy in Education
+
 
 ## Publications
 Coming soon.
