@@ -70,7 +70,7 @@ Macao Polytechnic University – University of Coimbra Joint Program
 
 - [Henrique Santos Madeira](https://scholar.google.com/citations?hl=en&user=A44nqM0AAAAJ)
 - [Paulo Fernando Carvalho](https://scholar.google.com/citations?user=fn_P2xgAAAAJ&hl=en)
-- [C.T. Lam](https://scholar.google.com/citations?user=GXD7ppMAAAAJ&hl=en&oi=ao)
+- [C.T. Lam]([https://scholar.google.com/citations?user=GXD7ppMAAAAJ&hl=en&oi=ao](https://fca.mpu.edu.mo/profile/ctlam#home))
 
 ---
 
