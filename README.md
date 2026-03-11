@@ -1,7 +1,7 @@
 # Junjian Yan
 
 PhD Student  
-Macao Polytechnic University & University of Coimbra  
+FCA, Macao Polytechnic University & CISUC, University of Coimbra  
 
 My research focuses on reliability assessment for machine learning systems, with a particular interest in federated learning and safety-critical applications such as digital health.
 
@@ -67,9 +67,9 @@ PhD Program
 Macao Polytechnic University – University of Coimbra Joint Program
 
 Supervisors:
-- Henrique Santos Madeira
-- Paulo Fernando Carvalho
-- Lam
+- Henrique Santos Madeira (https://scholar.google.com/citations?hl=en&user=A44nqM0AAAAJ)
+- Paulo Fernando Carvalho (https://scholar.google.com/citations?user=fn_P2xgAAAAJ&hl=en)
+- C.T. Lam (https://scholar.google.com/citations?user=GXD7ppMAAAAJ&hl=en&oi=ao)
 
 ---
 
