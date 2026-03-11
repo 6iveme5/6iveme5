@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Junjian Yan 👋
 
-<!--
-**6iveme5/6iveme5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PhD Student  
+Macao Polytechnic University & University of Coimbra  
 
-Here are some ideas to get you started:
+## Research Interests
+- Federated Learning
+- AI Reliability
+- Machine Learning Safety
+- AI in Education
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Projects
+- Federated Reliability Assessment
+- Distance-based Surrogate Reliability Model
+- AI Literacy in Education
+
+## Publications
+Coming soon.
+
+## Contact
+Email: jyan@dei.uc.pt
