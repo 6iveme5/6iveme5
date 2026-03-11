@@ -1,21 +1,84 @@
-# Hi, I'm Junjian Yan 👋
+# Junjian Yan
 
 PhD Student  
 Macao Polytechnic University & University of Coimbra  
 
+My research focuses on reliability assessment for machine learning systems, with a particular interest in federated learning and safety-critical applications such as digital health.
+
+---
+
 ## Research Interests
+
 - Federated Learning
-- AI Reliability, especially in FL
-- Machine Learning Safety
+- Reliability Assessment for Machine Learning
+- Trustworthy AI
+- AI in Healthcare
+
+---
+
+## Current Research
+
+### Federated Reliability Assessment
+
+Developing reliability assessment methods that can operate in federated learning environments where training data cannot be shared.
+
+Current topics include:
+
+- Distance-based reliability estimation
+- Surrogate models for reliability prediction
+- Reliability evaluation under privacy constraints
+- Error detection using reliability scores
+
+---
 
 
-## Current Projects
-- Federated Reliability Assessment
-- Distance-based Surrogate Reliability Model
+## Selected Projects
 
+### Distance Surrogate Reliability
+
+A framework for learning surrogate models that approximate reliability scores derived from distance-based methods.
+
+Repository:
+https://github.com/6iveme5/distance_surrogate_reliability
+
+---
+
+### Federated Reliability Assessment
+
+Exploring reliability estimation methods adapted to federated learning scenarios.
+
+Topics include:
+
+- Trust score adaptation in federated settings
+- Reliability surrogate learning
+- Privacy-preserving reliability evaluation
+
+---
 
 ## Publications
+
 Coming soon.
 
+---
+
+## Academic Profile
+
+PhD Program  
+Macao Polytechnic University – University of Coimbra Joint Program
+
+Supervisors:
+- Henrique Santos Madeira
+- Paulo Fernando Carvalho
+- Lam
+
+---
+
 ## Contact
+
 Email: jyan@dei.uc.pt
+
+---
+
+## GitHub Statistics
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=6iveme5&show_icons=true)
