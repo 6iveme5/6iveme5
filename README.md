@@ -77,9 +77,3 @@ Macao Polytechnic University – University of Coimbra Joint Program
 ## Contact
 
 Email: jyan@dei.uc.pt
-
----
-
-## GitHub Statistics
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=6iveme5&show_icons=true)
