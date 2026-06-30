@@ -35,7 +35,7 @@ Current topics include:
 
 ### Density-Based Reliability Estimation for Medical AI with Gaussian Mixture Models in Centralized and Federated Settings
 
-Code for the paper submitted to Mdeicon. Evaluates pointwise reliability estimation using Gaussian Mixture Models (GMMs) in both centralized and federated learning settings on medical tabular data.
+Code for the paper Medicon 26. Evaluates pointwise reliability estimation using Gaussian Mixture Models (GMMs) in both centralized and federated learning settings on medical tabular data.
 
 Repository: https://github.com/6iveme5/ai-reliability-medical
 
@@ -43,7 +43,7 @@ Repository: https://github.com/6iveme5/ai-reliability-medical
 
 ### From Centralized Learning to Federated Setting: Keeping Reliability on Track
 
-Code for the DSN paper. Investigates how reliability estimation methods transfer from centralized to federated learning environments, with a focus on maintaining trustworthy predictions under data privacy constraints.
+Code for the DSN 26 paper. Investigates how reliability estimation methods transfer from centralized to federated learning environments, with a focus on maintaining trustworthy predictions under data privacy constraints.
 
 Repository: https://github.com/6iveme5/FedRel-Reliability
 
