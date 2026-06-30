@@ -31,27 +31,29 @@ Current topics include:
 
 ---
 
-
 ## Selected Projects
 
-### Distance Surrogate Reliability
+### Density-Based Reliability Estimation for Medical AI with Gaussian Mixture Models in Centralized and Federated Settings
 
-A framework for learning surrogate models that approximate reliability scores derived from distance-based methods.
+Code for the paper submitted to Mdeicon. Evaluates pointwise reliability estimation using Gaussian Mixture Models (GMMs) in both centralized and federated learning settings on medical tabular data.
 
-Repository:
-https://github.com/6iveme5/distance_surrogate_reliability
+Repository: https://github.com/6iveme5/ai-reliability-medical
 
 ---
 
-### Federated Reliability Assessment
+### From Centralized Learning to Federated Setting: Keeping Reliability on Track
 
-Exploring reliability estimation methods adapted to federated learning scenarios.
+Code for the DSN paper. Investigates how reliability estimation methods transfer from centralized to federated learning environments, with a focus on maintaining trustworthy predictions under data privacy constraints.
 
-Topics include:
+Repository: https://github.com/6iveme5/FedRel-Reliability
 
-- Trust score adaptation in federated settings
-- Reliability surrogate learning
-- Privacy-preserving reliability evaluation
+---
+
+### Transfer-Guided Surrogate Learning for Deployable Point-Wise Reliability in Federated Healthcare AI
+
+Code for the journal paper. Proposes a surrogate learning framework that transfers reliability knowledge across federated clients, enabling deployable point-wise reliability estimation in healthcare AI without sharing raw data.
+
+Repository: https://github.com/6iveme5/federated-reliability-estimation
 
 ---
 
